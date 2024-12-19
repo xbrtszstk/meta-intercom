@@ -16,5 +16,6 @@ IMAGE_INSTALL:append = " \
 weston \
 ivi-homescreen \
 xhello \
-docker \
+podman \
+podman-tui \
 "
